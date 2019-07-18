@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    background-color: #f6f6f6
+}
+
+.product {
+    /* display: inline-block; */
+    margin-top: 86px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1010px;
+    height: 503px;
+    border: 1px solid #d7d7d7;
+    background-color: #ffffff;
+}
+
+.headphones {
+    display: inline-block;
+    margin: 63px 586px 64px 48px;
+    width: 376px;
+    height: 375px;
+    background-image: url(../img/produkt.jpg);
+}
+
+.content {
+    display: inline-block;
+    margin: 94px 93px 97px 523px;
+    width: 394px;
+    height: 312px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+h1 p {
+    color: #2f2f2f;
+}
+
+button {
+    width: 252px;
+    height: 50px;
+    background-color: #ec744a;
+    color: #ffffff;
+    font-family: "Arial";
+    font-size: 19px;
+    font-weight: 400;
+}
