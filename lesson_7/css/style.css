@@ -1,0 +1,28 @@
+body {
+    background-color: #f9f9f9;
+}
+
+h1 {
+    text-align: center;
+}
+
+.block {
+    /* text-align: center; */
+    display: flex;
+    /* background-color: lightgrey; */
+    /* border: 1px solid #000000; */
+    justify-content: space-around;
+    align-items: center;
+    width: 90%;
+    height: 500px;
+    text-align: center;
+    margin: auto;
+}
+
+
+/* .element-1,
+.element-2,
+.element-3,
+.element-4 {
+    height: 100%;
+} */
