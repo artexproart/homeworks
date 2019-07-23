@@ -1,0 +1,22 @@
+  .row {
+      padding: 0 0 80px 0;
+  }
+  
+  h1 {
+      padding: 80px 0 80px 0;
+      text-align: center;
+  }
+  
+  img {
+      display: block;
+      /* height: 65px;
+      width: 70px; */
+      /* margin-bottom: 20px; */
+  }
+  
+  .abc {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      height: 160px;
+  }
